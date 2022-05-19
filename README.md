@@ -11,3 +11,4 @@ to use the weather dashboard:
 1. type in the name of a city in the input box aboocve the search bar.
 2.click search
 3.view the current weather, uv index rating, and five day forecast. The city you searched will appear in the history tab under the search bar.
+![](https://user-images.githubusercontent.com/102083372/169228284-0a690015-949c-49c5-8e99-ec0f5fd24ce1.gif)
